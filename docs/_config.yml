@@ -1,0 +1,9 @@
+title: Physics Brief
+description: A daily English digest of physics news from India and the world.
+url: ""
+baseurl: "/physics-news"
+timezone: Asia/Kolkata
+future: false
+
+plugins:
+  - jekyll-feed

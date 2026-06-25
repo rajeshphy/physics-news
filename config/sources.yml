@@ -1,0 +1,118 @@
+settings:
+  india_limit: 32
+  world_limit: 42
+
+  # Total points in the final post. The page must never render more than five.
+  final_points_total: 5
+  max_groups_per_section: 8
+  min_group_score: 2
+
+  require_ist_today: true
+  max_age_hours: 36
+  allow_unknown_dates: false
+
+  # Signals used before the AI call. Edit these to tune what is considered
+  # useful for classroom discussion and research-direction awareness.
+  india_keywords: >-
+    india,indian,isro,iit,iisc,tifr,rri,prl,bose institute,saha institute,
+    iiser,ugc,inspire,dst,serb,barc,dae,iuac,aries,ncbs,niser,vecc,
+    indian institute of science,indian institute of technology
+
+  world_keywords: >-
+    physics,quantum,particle,cosmology,astrophysics,astronomy,gravitational,
+    nuclear,condensed matter,materials,plasma,semiconductor,superconduct,
+    photonics,neutrino,lhc,cern,nasa,esa,fermi lab,fermilab,brookhaven,
+    synchrotron,laser,detector,telescope
+
+  research_keywords: >-
+    discovery,experiment,measurement,observed,observation,detected,detection,
+    breakthrough,research,study,paper,preprint,nature,science,physical review,
+    quantum,particle,condensed matter,materials,astronomy,astrophysics,
+    cosmology,nuclear,plasma,photonics,superconduct,semiconductor,neutrino,
+    gravitational wave,dark matter,exoplanet,telescope,mission,launch,
+    detector,accelerator
+
+  physics_topic_keywords: >-
+    physics,quantum,qubit,particle,astronomy,astrophysics,cosmology,
+    condensed matter,materials,space,mission,satellite,telescope,aerospace,
+    gravitational,detector,accelerator,superconduct,semiconductor,plasma,
+    nuclear,neutrino,dark matter,chandrayaan,aditya-l1,astrosat,gaganyaan
+
+  classroom_keywords: >-
+    explain,why it matters,student,education,lecture,nobel,olympiad,
+    demonstration,concept,experiment,measurement,question
+
+  low_value_keywords: >-
+    opinion,editorial,podcast,quiz,photo gallery,web story,celebrity,
+    movie,astrology,horoscope,gadget sale,deal,ranking list,admission notice,
+    memoir,book launch,wellness wear,pharmacopoeia,road infrastructure,
+    anniversary,history,historic,space dream,bullock cart
+
+  exclude_keywords: >-
+    astrology,horoscope,photo gallery,photos,web story,viral video,recipe,
+    movie,box office,celebrity,stock market,crypto,lottery,football,cricket,
+    yoga day,wellness wear,pharmacopoeia,book launch,memoir,admissions open,
+    admission open,submit your moon joy,art to nasa
+
+sources:
+  india:
+    - name: Google News - Indian Physics Research
+      type: rss
+      weight: 4
+      url: "https://news.google.com/rss/search?q=%28physics%20OR%20quantum%20OR%20astronomy%20OR%20astrophysics%20OR%20particle%20physics%20OR%20condensed%20matter%29%20%28India%20OR%20Indian%20OR%20IISc%20OR%20IIT%20OR%20TIFR%20OR%20ISRO%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en"
+
+    - name: Google News - ISRO Space Science
+      type: rss
+      weight: 4
+      url: "https://news.google.com/rss/search?q=%28ISRO%20OR%20Aditya-L1%20OR%20Chandrayaan%20OR%20XPoSat%20OR%20AstroSat%29%20%28science%20OR%20physics%20OR%20astronomy%20OR%20space%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en"
+
+    - name: Google News - Indian Science Institutions
+      type: rss
+      weight: 3
+      url: "https://news.google.com/rss/search?q=%28IISc%20OR%20TIFR%20OR%20Raman%20Research%20Institute%20OR%20Physical%20Research%20Laboratory%20OR%20Bose%20Institute%20OR%20IISER%29%20%28physics%20OR%20quantum%20OR%20astronomy%20OR%20materials%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en"
+
+    - name: PIB - Science Technology
+      type: rss
+      weight: 3
+      url: "https://news.google.com/rss/search?q=site%3Apib.gov.in%20%28physics%20OR%20quantum%20OR%20space%20OR%20astronomy%20OR%20science%20technology%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en"
+
+  world:
+    - name: Physics World
+      type: rss
+      weight: 5
+      url: "https://physicsworld.com/feed/"
+
+    - name: Google News - APS Physics
+      type: rss
+      weight: 4
+      url: "https://news.google.com/rss/search?q=site%3Aphysics.aps.org%20%28physics%20OR%20quantum%20OR%20particle%20OR%20materials%29%20when%3A1d&hl=en-US&gl=US&ceid=US:en"
+
+    - name: Google News - CERN
+      type: rss
+      weight: 4
+      url: "https://news.google.com/rss/search?q=site%3Ahome.cern%20%28physics%20OR%20particle%20OR%20accelerator%20OR%20lhc%20OR%20detector%29%20when%3A1d&hl=en-US&gl=US&ceid=US:en"
+
+    - name: NASA Science
+      type: rss
+      weight: 3
+      url: "https://science.nasa.gov/feed/"
+
+    - name: ESA Science
+      type: rss
+      weight: 3
+      url: "https://www.esa.int/rssfeed/Our_Activities/Space_Science"
+
+    - name: Google News - World Physics Research
+      type: rss
+      weight: 3
+      url: "https://news.google.com/rss/search?q=%28physics%20OR%20quantum%20OR%20particle%20physics%20OR%20astrophysics%20OR%20cosmology%20OR%20condensed%20matter%29%20%28discovery%20OR%20experiment%20OR%20research%20OR%20breakthrough%29%20when%3A1d&hl=en-US&gl=US&ceid=US:en"
+
+    - name: Google News - Nature Science Physics
+      type: rss
+      weight: 3
+      url: "https://news.google.com/rss/search?q=site%3Anature.com%20%28physics%20OR%20quantum%20OR%20astrophysics%20OR%20materials%29%20when%3A1d&hl=en-US&gl=US&ceid=US:en"
+
+    - name: Google News - Science Physics
+      type: rss
+      weight: 3
+      url: "https://news.google.com/rss/search?q=site%3Ascience.org%20%28physics%20OR%20quantum%20OR%20astronomy%20OR%20materials%29%20when%3A1d&hl=en-US&gl=US&ceid=US:en"
