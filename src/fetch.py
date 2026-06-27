@@ -102,7 +102,7 @@ def collect_from_rss(section: str, source_config: dict) -> list[NewsItem]:
         published_at = parse_feed_datetime(clean_text(entry.findtext("pubDate")))
         if not title or not link:
             continue
-        direct_url = resolve_direct_link(link)
+        direct_url = resolve_direct_link(link).strip()
         items.append(
             NewsItem(
                 section=section,
@@ -137,7 +137,7 @@ def collect_from_rss(section: str, source_config: dict) -> list[NewsItem]:
                     section=section,
                     item_id="",
                     title=title,
-                    url=resolve_direct_link(link) or link,
+                    url=resolve_direct_link(link).strip() or link,
                     source=source_name,
                     source_weight=source_weight,
                     published=format_item_date(published_at),
