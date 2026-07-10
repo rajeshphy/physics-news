@@ -1,0 +1,49 @@
+---
+layout: default
+title: "Nova Systems supports Indian spaceflight program - Australian Defence Magazine"
+date: 2026-07-10T04:32:37.423132+00:00
+summary: "Space science, quantum research, and particle physics for physics students"
+run_time_ist: "10:02AM"
+---
+
+<article class="digest-post">
+  <a class="back-link" href="{{ '/' | relative_url }}">Physics Brief</a>
+  <p class="post-meta">Headline Digest: 10:02AM</p>
+
+<h2>India Physics</h2>
+<ul class="digest-points">
+  <li><strong>Australian Defence Magazine:</strong> Nova Systems supports Indian spaceflight program - Australian Defence Magazine<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzRrN2JKckFzRnU1N1JjakZxdW5nUE1DTTAwemtEdUplWFlpNmlQbWE0dzV3MXFmX1lHT2xMbmFRM1FwdkxvZGlnalpfMmhsbUtKcHVnR1RPTXVUU2ZGTkpLeEg2TW5wWW1XWVFnQldZUzdZWF9tbkNXdEFJNDRuQnZoYUpyTkptQ21vYW1OXzd2Uy05U3gycExEYw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I1</a></span></li>
+</ul>
+<h2>World Physics</h2>
+<ul class="digest-points">
+  <li><strong>Nature:</strong> High-throughput design of catalytic materials for NOx reduction from aircraft emissions | npj Computational Materials - Nature<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE13WjZPSEZBNy15SU01R0dlTVJHNHhhRm9vZlJMcDdnbDJKbUNNNU5abm5VeXRVc1BLSVBRaWozaVBoVkRrQzFvRlhUVzBfSG9xZUNpamRfUUZMWFloaFdJ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W1</a></span></li>
+  <li><strong>Msn:</strong> Quantum computing wielded to create extremely rare material critical to nuclear fusion - MSN<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRms5amtqS0MzN3JLcU1CQXBsUE1tcGNwc1ZoNjVZNHNiaTJNcnlVdm4zNXA1NWVYaEdidFNINC11SlVGM0RWaVpvUXo5a0FlMnZaUkZjTHl4azJZc1M5Z0txYkhZNXM2THNhTzFxakdyTE5MLXBWZWZhUmhXemp6c3lUQ3o3RnBiVk9hemtONmZQR282QnlHYVczZHZUcXRKcVhfdmxUZV93TUJIaUtTMFYzN09BdVcteHpRc3hRX3Q1NmR5d3QyOTl2b3ktTHBDTXdhYng2MA?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W2</a></span></li>
+  <li><strong>Msn:</strong> Springer Nature unveils new research on dark matter and energy - MSN<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmlOZjZvRzNTTmF1elUtcHpmZVN4TUJJWE9VcFAzRDkzcFluUU1yR2FCdDljOGVzMUN1U0JvN1lFbjRJclRSOHBjcjMtTnVHZFdqc1dFeS1HcU9MWkFmdDRrVWxLbzhUV01LRGwzYVk0SnN5UE9aQ1ZXYnhwaUNNN19adWdaUnpTbVNTbEdVaDlDREk1eHZxWlltb2FzNGd5aEkwM3hXNFdOcURHMzltNGZwdHJBUms?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W3</a></span></li>
+  <li><strong>Phys.org:</strong> AI identifies new particle models that may explain neutrinos&#x27; tiny mass - Phys.org<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE03empzODM5anNIUXFTRVhldXFMeGdSX1dzMHp3MFh6VUdWaUZHY1NZVENINFlHUGtxdUh3WF9TZm9Ea3V6cTBaQllENlVLX2lFc21RS0N6bm1wdi1jWVY3ZFVYZm1kM2JxYld0akpRLWhTTU5n?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W4</a></span></li>
+</ul>
+
+<section class="source-note">
+  <h2>Source</h2>
+  <p>Generated from configured physics RSS feeds. Source links below are direct article links where the feed allowed resolution.</p>
+</section>
+
+<details class="tp-sources">
+<summary>Headlines considered</summary>
+
+<ul class="source-list">
+  <li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOMzRrN2JKckFzRnU1N1JjakZxdW5nUE1DTTAwemtEdUplWFlpNmlQbWE0dzV3MXFmX1lHT2xMbmFRM1FwdkxvZGlnalpfMmhsbUtKcHVnR1RPTXVUU2ZGTkpLeEg2TW5wWW1XWVFnQldZUzdZWF9tbkNXdEFJNDRuQnZoYUpyTkptQ21vYW1OXzd2Uy05U3gycExEYw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I1] Nova Systems supports Indian spaceflight program - Australian Defence Magazine</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2ZFTS1Qc2ZjemVGcjY5Wm81ckhNVVJtTDdsWWlZRDRBNU5IRVRUUkJWMGhnRUlHOHhnWlZaWnlrMTB3NGJQa2N1cWxuM0gwXzFjY0dzbS10ZWItdjc3Mks5ZWE5WXNZSWRDMHN3MmZXdVFIT3RWazRMVkRFOGE2VUU5cHlUNUJXcEFxcDc3WVd5bnNKRjZwMlRLUXUyQlJXNWU5cEJwVUh4emhEVFR4OGI3NUMyMmZrdDZrRHJEVlUtd0x20gHKAUFVX3lxTE1wdzliNE4xTXMxejRVYjh2aTZneDIyT0trQW5nSms0UUM5ODhqTFN1YVgtUTcxcVZ4RXFUNGc2N0tERjhGYjBnQVVZaWdPYnVid3FmaUFEcmNrWFl0eVVILWhpT0dHSUFWUzdqWHJKeDZCQk9aZ0d3VFYzNlpoUVlEc3FZbXNta3kzSG12T21RR1F6YmtBMVdka19IRUV4UGNkN0pXeGxPNjVYQjFOMzNmRFlpbVV3YWVvWGlzMkVUT2FBTTUzQ2NIX2c?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I2] India is preparing for its own space station: PM Modi tells diaspora in Australia - Firstpost</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMimwNBVV95cUxNWUVjR3FzLU1zZEJlaE4zeHoxSXpEeDJnWmVrQWhRRjhqNHpBekJqaFJtdy1IdzhReHJwN3lPQ0tYbXpWTTBPa3FxUEhpb3hrRmwtQmlvak55X1hWR0JhWUZFaEl5UUtFOGkxUGxHRUdzclR0M2hxczBadEtrY2ZjX2ZtdFYtaGhPazJKTTFYZ01wNFZTTXh4MVFGb1FNblpPZkh3R3Z1TjlQU1RseUl1cGhNS2czcHlrMi1MMDY1SHJOQjBTbzZCdk9pZXNWVWFfUDVlV3ZSdWxVc1FQZEs2UWdRYWc0YzVmOVRuSGd0ajJsTWFjUnVXRFNVLURtMHFlTVJBY250d3hVMVYySlNObzJaM1BubFJKNXFsWXp1WlNndFFielVtd1dkbHVmWFR2Uk9idW9paExBQWh4WnZIeHFpbGJpM2VaODNDdkFfY3l2eUt0dXBCMXcybWNseFh2X2Z4NWhLNHJjWHFER3c5TjBsUkh0TGo2SFpEdjFwSnlqTG1lREdjcXE0NkprWWJJSVdBVmRwaUVUZkU?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I3] No radar needed, safer landings in bad weather: After GAGAN, India to get first satellite-guided helicopter approach - MSN</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ0MzWnhaVEt5S0NEanpOWVZsb3F3S245S1BZMkVkMTJRZno0NUt6YTQtSnZEbGZkUkpvUlh4aDFYaUplTWNFYURDZjF1VEdsS2Zrc05tcWFJLVdKUnd1MldlVGpyLXQ0RDJJT3pxX21hS183emk2Z19Xc0huSkc1YklnSm5yelZTN1NxMk9jbGhCaTExYjRQd1VfQ3VXTmZ3dldlTk84M1JXQkNwUFQ3TXVQeVBkZkVXc3dxLUxxREhIQXZPV3ZsSXE2THV2RTBveGM2Qmg3elJLcFJfM21takZHMVJRdVJDUm5JcEwzOVlNWDMxM3hVWdIB_gFBVV95cUxOc3EyVnJhQTZ6UGxyWkxvY2NmWnFJSnlQUFdac1lPdHQ2VjNULXdVN0phc0FYTDJSOURwOHFrTUJxT2JKYUZxVEZiNTZIWDhmSUsydkhLeUF3SmhDaEp0RzJYamFwQWxrcDlyNW5yX1RXcVRGeEhnQV91Z045VmN2bWwtTUlMekNlbUdYRC1Sb1paMGV0c3g3M05Rdk5nY0lpQ0hHNFRHd2h1ZGpkTWtqd0w1STF0SjVPT29sUHE4QmhUNEFhbVA4X1RxRVNqNFA4bVpScjZOMFJ3T3RsRWFoR254SmRFc0VtSlJnZXZPZ2ZsWmQ1dWhqclNfM0U5UQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I4] Will set up temporary space tracking terminal on Cocos Keeling to support India’s Gaganyaan: Aus PM - The Times of India</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0lsWVRVYkNRRlpScVdrYkUyYkRDVnNXejcydUpvNDQ0MUhYOGZqYlkxWDJMVnlnWnRTWlNzb3NUYVZJZmlGQmZIY3hhUENsaVB2SVlKY2s4YWJWanRoUWdaMEh1WGdtWjJDMUtsVTlpZjF1dU85VVpJSzk0emhqb3dtWnAtdjhDWnRvUlQ2RkVtQQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I5] Isro Conducts Successful Test on Gaganyaan Crew Module Parachutes - The CSR Journal</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE13WjZPSEZBNy15SU01R0dlTVJHNHhhRm9vZlJMcDdnbDJKbUNNNU5abm5VeXRVc1BLSVBRaWozaVBoVkRrQzFvRlhUVzBfSG9xZUNpamRfUUZMWFloaFdJ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W1] High-throughput design of catalytic materials for NOx reduction from aircraft emissions | npj Computational Materials - Nature</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRms5amtqS0MzN3JLcU1CQXBsUE1tcGNwc1ZoNjVZNHNiaTJNcnlVdm4zNXA1NWVYaEdidFNINC11SlVGM0RWaVpvUXo5a0FlMnZaUkZjTHl4azJZc1M5Z0txYkhZNXM2THNhTzFxakdyTE5MLXBWZWZhUmhXemp6c3lUQ3o3RnBiVk9hemtONmZQR282QnlHYVczZHZUcXRKcVhfdmxUZV93TUJIaUtTMFYzN09BdVcteHpRc3hRX3Q1NmR5d3QyOTl2b3ktTHBDTXdhYng2MA?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W2] Quantum computing wielded to create extremely rare material critical to nuclear fusion - MSN</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmlOZjZvRzNTTmF1elUtcHpmZVN4TUJJWE9VcFAzRDkzcFluUU1yR2FCdDljOGVzMUN1U0JvN1lFbjRJclRSOHBjcjMtTnVHZFdqc1dFeS1HcU9MWkFmdDRrVWxLbzhUV01LRGwzYVk0SnN5UE9aQ1ZXYnhwaUNNN19adWdaUnpTbVNTbEdVaDlDREk1eHZxWlltb2FzNGd5aEkwM3hXNFdOcURHMzltNGZwdHJBUms?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W3] Springer Nature unveils new research on dark matter and energy - MSN</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE03empzODM5anNIUXFTRVhldXFMeGdSX1dzMHp3MFh6VUdWaUZHY1NZVENINFlHUGtxdUh3WF9TZm9Ea3V6cTBaQllENlVLX2lFc21RS0N6bm1wdi1jWVY3ZFVYZm1kM2JxYld0akpRLWhTTU5n?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W4] AI identifies new particle models that may explain neutrinos&#x27; tiny mass - Phys.org</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1tbkgwdElIbnVueWVVWEtLdUR6cnpvczh1WW1zaTk5NUpCM0FfR3FLRWtwRG5vQ1ZQR1AtYWxWYzVlcnIxMjl3SV93NVk0bTh2X0ZoMVNxZGpPMGhtVDNzaVNlVzRrYWtoZm1nWGVabk9ScF9Q?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W5] New physics-based machine-learning method speeds search for 2D quantum materials - Phys.org</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HN3I2SVJEU1lUY3IwckhSNC1YNVZUT1pjZC1xQlREWlQwWndTM3pjRzBHYTVCSThEdjlONGhHYlNYbVcxVm0xVW10ZTJmbFdLTXZGeTB3OWJWUnd6QW5R?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W6] intercalated into graphite as three-dimensional platform for exotic quantum phases - Nature</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qN1NoMDM5bi1ObWxpWFV0b0hTZ0prNnl0Mkt5VnNWSGxuMmZ5SVVLek9qdTBPaTNLSms4MFA1akgyVzE5ekhZQk0xQXYwaG1mQmxOcUtsNXpZNjZOTzA4?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W7] Predictive fault management in smart sensor networks using a dynamic quantum-AI architecture (DynaQuAI) - Nature</a></li>
+</ul>
+
+</details>
+</article>
