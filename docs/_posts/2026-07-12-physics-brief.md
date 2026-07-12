@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "ISRO satellite captures monsoon's big push from space, rain clouds shroud India"
-date: 2026-07-12T04:06:30.663530+00:00
+date: 2026-07-12T06:17:25.841375+00:00
 summary: "Space science, particle physics, and quantum research for physics students"
-run_time_ist: "9:36AM"
+run_time_ist: "11:47AM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">Physics Brief</a>
-  <p class="post-meta">Headline Digest: 9:36AM</p>
+  <p class="post-meta">Headline Digest: 11:47AM</p>
 
 <h2>India Physics</h2>
 <ul class="digest-points">
@@ -37,8 +37,9 @@ run_time_ist: "9:36AM"
   <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFa2kzLXl1Qm1RNF9tUE9QeFEtTkFSR3lvTnpVV2JWelliN044ODh0cnk1RWQ0QTNDMjh6MkhZbUF2QXhXZjBIaWJ1RDFPU1NqOERyRFR6UlVsV2JFVTg0?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W3] Gapless fracton quantum spin liquid and emergent photons in a 2D spin-1 model - Nature</a></li>
   <li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzRVX1hoQTNCTXRlV0pqQWp1TmlNMnZ3UlNiNmc5ZEpRTDI2MjlTR0dXTjk3cGlYckJDX3JfMXkwWUZESmp3bHc3a0FoRzdvV1FjdkgwLVBRZXhpQi1sZElpbk15OWZhX3d5cDJraTBtUnZkMXBsZ3o3UjlvSTFhbXRGendkeEtpYTFN?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W4] Researchers Find Superradiant Intensity Scales Superlinearly With Atom Number - Quantum Zeitgeist</a></li>
   <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE42ajMtSm9VWUJXV2trQzBoRi1aNGY4S0FiZVM1V29BRUlXY3hsdUtoQkZKQW5HVVo2QjJ5LWhoLUZVdml6bWp5VXQyVXZ0VmptQkFHTG5hMUJFSUVpNjdn?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W5] Advancing genomics and integration of multi-omics for precision oncology using quantum machine learning - Nature</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RTYyeTAyclc0QkhGRVo0S2hKV2dkejlGWDhLLVVrVlA3ZXh2X2xfWC1QeHAtcDRmQ2pOcHFpUGlwM3R4a3RwX2RRbGVvM1Zhc2RZdm1pTVJac3hzS0dv?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W6] Magnetometry with a space-based differential atom interferometer - Nature</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aendhZ2VTSVhoRFRMR0VvUTlFdDNmVjhzTW42TXR5S092aXN6cWNnWXl5OEZtMXUyQ3NlMm5ucDN4WVA0MDVBeHFucmFLVDJhOXBDZElwUVB6ZWVqSUE0?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W7] Stable real-space invariants and topology beyond symmetry indicators - Nature</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE83QkkxSDVscDI1X0RQNzgxc1Uwb3hRcmdQbzJWUk04NlBYSE1uazNhZUo4X1Byd29NbVZwQjByRWZlN2EzOC1EaTR1dElIOGFRUTN0dGFuemR5QTNBR2E3Sk9PNWhibFJfblM3ZUpB?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W6] New York University &amp; IST Austria Map Radiative Noise - Quantum Zeitgeist</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5YX2VGWXVidUQxakxWYVNhVnVZVTNKLVRhVDFsLTY0RHgxV2FZd1FDaFpzOFpJZTdJS3RnUE80aXMxYTloZ21NRGpxbVBENWVCNUVtTU9SRW0wNU5lVVg0MVBfcTM5M1dGaWFTTGxDdzdQN2dxc1c4UEtIZzY?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W7] Preparing States On Quantinuum Hardware - Quantum Zeitgeist</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE13RTYyeTAyclc0QkhGRVo0S2hKV2dkejlGWDhLLVVrVlA3ZXh2X2xfWC1QeHAtcDRmQ2pOcHFpUGlwM3R4a3RwX2RRbGVvM1Zhc2RZdm1pTVJac3hzS0dv?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W8] Magnetometry with a space-based differential atom interferometer - Nature</a></li>
 </ul>
 
 </details>
