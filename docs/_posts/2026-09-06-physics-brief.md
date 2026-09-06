@@ -1,0 +1,49 @@
+---
+layout: default
+title: "Letter sent after GSLV launch: ISRO staff question trajectory of space privatisa"
+date: 2026-09-06T04:54:58.101162+00:00
+summary: "Space science, materials physics, and particle physics for physics students"
+run_time_ist: "10:24AM"
+---
+
+<article class="digest-post">
+  <a class="back-link" href="{{ '/' | relative_url }}">Physics Brief</a>
+  <p class="post-meta">Headline Digest: 10:24AM</p>
+
+<h2>India Physics</h2>
+<ul class="digest-points">
+  <li><strong>The Indian Express:</strong> Letter sent after GSLV launch: ISRO staff question trajectory of space privatisation, want chief to clarify - The Indian Express<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRHA0cEoyRURuaG9DZ2c2eHdoem9vckxkckZNd2w5SEN1TjljbzZ4Z2lFYU9NVlo1azdfVlhXc1FSLTV6NWNzX1lTNkpkZjJxR1hLTGMtNDVfOTE4LXZwTFZHTDdUcmxaTjkwNkJtQklIeTRrdG54aGtfamhvREN5NDl3RjdrYVNHQi00NHNQNDlYblQ5bFJCb29GLVZ6bHZxaDk1d2VBMmY3TmVCcjFYb0g2bmpRc2t1RGdNZWdjUE1GenVyTGk5N3kyU0VCZmIwNjd5X0RnUXF5VXFsTW9QVXRiRHNueV9NLXl30gHyAUFVX3lxTE8weTRSVVRrbDY3TV9sUC1Ld3RkdWRYZjhsQ2RGUXdaUzJqdmtJSEpfZXk0dUMwbHBzR0NEMWtsbmJpNFBEMjB4WG1OR3NMaWtxMDBlTVhaeTlXYWpGN21LdEQyM2hSLXgwcVpnMFc1c192LTBXd1VZYktENHFUSGpaMkJZczZUdVdKenNhTmFXZ0l2R0dRMFBpaVFIMTdDaGVLWUtIejBVdURCenVJZVh4TzZkLVJqaTE5QmRDQ18zTmZDSXhpZ1dnM0l3NmRzN3FMVW9TMHRhb3k4SXF0aEZ5a0Z3WUs4a2d5SjkzZHZ2U2N3?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I1</a></span></li>
+  <li><strong>Business Viewpoint Magazine:</strong> ISRO Reaffirms Gaganyaan’s First Uncrewed Launch Target for 2026 - Business Viewpoint Magazine<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWkhYNkNJVHR6OEVjLS1HQjZWMF9yRXc3QzRtSVA4WXU5RUFva1daSGxobWpKMjRabW5UTUhfRVlDSU5fVm41OV9KMm5JNUVKZmR3WUxJUTVNNWF4UEpyLXpiSjNZQTNLX0ZiQ01KdUVNdy1aZTZOWUttRzZfY2c?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I2</a></span></li>
+  <li><strong>Daily Mirror - Sri Lanka:</strong> ISRO successfully launches GSLV F17 rocket carrying imaging satellite EOS-05 - Daily Mirror - Sri Lanka<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQbk50QVRETHN3bmlrX1otVmxaXzVvWUl2UnlzY0pxcFVyRnFBT0YxMFV1SHJiRFU3REZJaTlSeUI4dkZOUWI2bmo3UkFZdDJ1eTNnTndLalU3cHZZTnkxaTE5T1FSdXhmWjBpbm1NTk1MRDN3SUdSX3NCY0lfajhRUVc5S281NHhZUERWdVhrUThpSWIydUx2ZndXZm93THc4Y09TMVJ3bzE0eHR0VllZMWlOX2R3dXd0QTVjN0E1WC1DTUhZdzQ4YWhvd2hpb2M?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I3</a></span></li>
+</ul>
+<h2>World Physics</h2>
+<ul class="digest-points">
+  <li><strong>Science Daily:</strong> A mysterious signal around Earth could be dark matter - Science Daily<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBQb1REWmU5UGw2RV9oYVdyODVXbGNGb3VCUXNJaUNBRk1WYkJIMVAza3ZjLTlKb1p3ZHdNdG8yT3duTm5HTkZzbHNlRF92aUZVdWJHQnM2eHJ4b2tweEJtd0J3SjRFcDV3aHhScWZrSQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W1</a></span></li>
+  <li><strong>bioengineer.org:</strong> Graphene research reveals evidence of unconventional superconductivity - bioengineer.org<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVFYSHVuV29RRGN0a0pqOTBqaXpEdVJMVDJrOUpFenJIODRFMC1TUFhPY0hOOEVSUWxWR3R5a2VMY2VSSnBkb3U3WVhpWmtpS0pIejZ2MlhsRkN4Q0tGRFAtc1hFd09YaGZ4ZVRrZGZ4M181SURRUUtNNW5WWi1jNURUQ2k1ald0di04TTBzNGFVQy1yVUZyRHBmdw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W2</a></span></li>
+</ul>
+
+<section class="source-note">
+  <h2>Source</h2>
+  <p>Generated from configured physics RSS feeds. Source links below are direct article links where the feed allowed resolution.</p>
+</section>
+
+<details class="tp-sources">
+<summary>Headlines considered</summary>
+
+<ul class="source-list">
+  <li><a href="https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRHA0cEoyRURuaG9DZ2c2eHdoem9vckxkckZNd2w5SEN1TjljbzZ4Z2lFYU9NVlo1azdfVlhXc1FSLTV6NWNzX1lTNkpkZjJxR1hLTGMtNDVfOTE4LXZwTFZHTDdUcmxaTjkwNkJtQklIeTRrdG54aGtfamhvREN5NDl3RjdrYVNHQi00NHNQNDlYblQ5bFJCb29GLVZ6bHZxaDk1d2VBMmY3TmVCcjFYb0g2bmpRc2t1RGdNZWdjUE1GenVyTGk5N3kyU0VCZmIwNjd5X0RnUXF5VXFsTW9QVXRiRHNueV9NLXl30gHyAUFVX3lxTE8weTRSVVRrbDY3TV9sUC1Ld3RkdWRYZjhsQ2RGUXdaUzJqdmtJSEpfZXk0dUMwbHBzR0NEMWtsbmJpNFBEMjB4WG1OR3NMaWtxMDBlTVhaeTlXYWpGN21LdEQyM2hSLXgwcVpnMFc1c192LTBXd1VZYktENHFUSGpaMkJZczZUdVdKenNhTmFXZ0l2R0dRMFBpaVFIMTdDaGVLWUtIejBVdURCenVJZVh4TzZkLVJqaTE5QmRDQ18zTmZDSXhpZ1dnM0l3NmRzN3FMVW9TMHRhb3k4SXF0aEZ5a0Z3WUs4a2d5SjkzZHZ2U2N3?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I1] Letter sent after GSLV launch: ISRO staff question trajectory of space privatisation, want chief to clarify - The Indian Express</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5mWkhYNkNJVHR6OEVjLS1HQjZWMF9yRXc3QzRtSVA4WXU5RUFva1daSGxobWpKMjRabW5UTUhfRVlDSU5fVm41OV9KMm5JNUVKZmR3WUxJUTVNNWF4UEpyLXpiSjNZQTNLX0ZiQ01KdUVNdy1aZTZOWUttRzZfY2c?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I2] ISRO Reaffirms Gaganyaan’s First Uncrewed Launch Target for 2026 - Business Viewpoint Magazine</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxQbk50QVRETHN3bmlrX1otVmxaXzVvWUl2UnlzY0pxcFVyRnFBT0YxMFV1SHJiRFU3REZJaTlSeUI4dkZOUWI2bmo3UkFZdDJ1eTNnTndLalU3cHZZTnkxaTE5T1FSdXhmWjBpbm1NTk1MRDN3SUdSX3NCY0lfajhRUVc5S281NHhZUERWdVhrUThpSWIydUx2ZndXZm93THc4Y09TMVJ3bzE0eHR0VllZMWlOX2R3dXd0QTVjN0E1WC1DTUhZdzQ4YWhvd2hpb2M?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I3] ISRO successfully launches GSLV F17 rocket carrying imaging satellite EOS-05 - Daily Mirror - Sri Lanka</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxNakw1aGtjQ05FV3h1TUJHMEdhODBVcnVXdFBsUWVYUE9zUVlMNGVmdUlySnV6bm1uXzlYQV9GbzNqUG03VkIwZjhycjBzNHg5UXJzTGd6aTFRMHRJX3lwZy1VMHFDUDV6NFVPclNKRmcxaG0wOTNhRFZEWU44VDJRa3JCd2J0ano0eEw0dlE5dHk4Z0x5cE00WFNxTGt3VWNUT3Vyek9Zc0NPM19nb2QzaklKZDVkS3FFOW1RdE05dVl0Vm5oLTR3TERhRVdyN2ltMFMxaXhnQQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I4] ISRO to launch two satellites tonight from its spaceport in Sriharikota to demonstrate docking and undocking of spacecraft in orbit | Akashvani News - News On AIR</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDhoRDg5aWRJRWxTWlpOa1dDMkx2RVF3MEdnem85YzcyT1RGcFRNNnR2NG1qOVIzUVV3QVZxLWphVUlvRmVuZXlaWnQ1dVlIUHh6RFdfSV90RTB3VXV4MW9EY2piQVNSWDVCSnJXelpybXlIRzRzcUhNVGc4dVhDNTZKYm8ta1Bwa1dmQWtpd0RGaVpUTGhpTTNScU1BaHZSN1ZjMmlQRU1pSC1zbVduYw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I5] Gaganyaan mission reaches advanced stage as ISRO completes key systems, infrastructure - DD News</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOdS1EM2VjTUZObXk4S0kzSm84QWl5TUZCTHp0MW14eHNRbWVhX1FRVktGTG40cVdHMjQxREE5MHQ1TXpISWU0Y0JFc3VZb2lVcWp4RjlzbXVFUnJZYlBSeE5RcEZzZ2xjbjVKOTgxei15RUNlSjhCM2NpaWhUOFNFUDljalFJQmp1VVlrbHFCLVNlTjhHVGtkZmdkRdIBmwFBVV95cUxOdS1EM2VjTUZObXk4S0kzSm84QWl5TUZCTHp0MW14eHNRbWVhX1FRVktGTG40cVdHMjQxREE5MHQ1TXpISWU0Y0JFc3VZb2lVcWp4RjlzbXVFUnJZYlBSeE5RcEZzZ2xjbjVKOTgxei15RUNlSjhCM2NpaWhUOFNFUDljalFJQmp1VVlrbHFCLVNlTjhHVGtkZmdkRQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I6] India Plans its Own Orbital Space Outpost, Second After China - Daily Excelsior</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBQb1REWmU5UGw2RV9oYVdyODVXbGNGb3VCUXNJaUNBRk1WYkJIMVAza3ZjLTlKb1p3ZHdNdG8yT3duTm5HTkZzbHNlRF92aUZVdWJHQnM2eHJ4b2tweEJtd0J3SjRFcDV3aHhScWZrSQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W1] A mysterious signal around Earth could be dark matter - Science Daily</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVFYSHVuV29RRGN0a0pqOTBqaXpEdVJMVDJrOUpFenJIODRFMC1TUFhPY0hOOEVSUWxWR3R5a2VMY2VSSnBkb3U3WVhpWmtpS0pIejZ2MlhsRkN4Q0tGRFAtc1hFd09YaGZ4ZVRrZGZ4M181SURRUUtNNW5WWi1jNURUQ2k1ald0di04TTBzNGFVQy1yVUZyRHBmdw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W2] Graphene research reveals evidence of unconventional superconductivity - bioengineer.org</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KS0IxbXdiT05qUDVSMmRUSEN0U2ZtQ2RlOUNnbnZOandyMTZHUm80bzRxcmtIU3RQUl94ZHJFUmh3WHZRYWpxWUd5YVVpbUppRGlVRjdhcE5jSmduSWNR?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W3] Structural characterization and in vitro anticancer activity of biogenic NiFe₂O₄ nanoparticles - Nature</a></li>
+  <li><a href="https://science.nasa.gov/image-article/apod-2026-september-6-pluto-in-enhanced-color/" target="_blank" rel="noopener noreferrer">[W4] APOD: 2026 September 6 – Pluto in Enhanced Color</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWF6b2MxYmM2OG0xUHBQWnRBRWY4a3JiaWdPM0tzV2hnYkVGVlJyZ1NtWGYySGxacmdSN01yTGhvd3dGTjVqM2k5dWNmOHBlWVlSOUZvVDBRaGpKWmJBT21Pel90N1VuV25COUVJUFE1SllTeXAxQkVBUF84WDV6VkZKODk2aXRhaDBNTmU5YU4?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W5] Chinese-German Team Builds ‘Floating Compass’ to Hunt Dark Matter - slguardian.org</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWFJSXhuOVd6ZnltV2FhaXg4V0NPaTNkZ2RBeDlqTGhaLXJTcUN6SDY5MkVqaHJLU3NCSlV4U1lqc3lWajhuSnFXMk5DSmJPdTk4NnVGcmczTnJMRElIdl9fZHRMZFpDNmc5M2QxemNmMlRIbl9qcnJGY2U5cmxBd1JqRUZZZi04UUNmWVFVWS0?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W6] Quantum Free-Fall Test Cracks Einstein&#x27;s Cosmic Riddle - streamlinefeed.co.ke</a></li>
+</ul>
+
+</details>
+</article>
