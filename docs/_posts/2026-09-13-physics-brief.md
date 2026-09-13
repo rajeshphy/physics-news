@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "G20 satellite is expected to be launched in 2027: ISRO Chairman - News On AIR"
-date: 2026-09-13T13:25:20.738873+00:00
-summary: "Space science, quantum research, and particle physics for physics students"
-run_time_ist: "6:55PM"
+title: "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea"
+date: 2026-09-13T17:33:35.619749+00:00
+summary: "Daily physics news for classroom and research awareness"
+run_time_ist: "11:03PM"
 ---
 
 <article class="digest-post">
   <a class="back-link" href="{{ '/' | relative_url }}">Physics Brief</a>
-  <p class="post-meta">Headline Digest: 6:55PM</p>
+  <p class="post-meta">Headline Digest: 11:03PM</p>
 
 <h2>India Physics</h2>
 <ul class="digest-points">
-  <li><strong>News On AIR:</strong> G20 satellite is expected to be launched in 2027: ISRO Chairman - News On AIR<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0dUaHNPQ1R0U0RnTVZrVGVST0Jnd0plcTF3QnBTZmEtNm0tTXEtVjdaQV9MRUZMUlljVng5TVN3Z3BzTE1oSWFDWWUyUE9fM2FOdVhSbTlwU3JsYXdTOWx2VlVTcTZqNG5KOHZkeVNERjVqdWZMMzdFb0ZsekhwVjgxTjdmbzdTS1NYdkZkS1MxZw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I1</a></span></li>
 </ul>
 <h2>World Physics</h2>
 <ul class="digest-points">
-  <li><strong>Quantum Zeitgeist:</strong> IFAE’s Amaral Explores Quantum Dark Matter Detection Method - Quantum Zeitgeist<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9xNjF4RkNBdHNpLWdrb0JISFh5VzUzTFRqd0tzaEp6QnZPNUZramhhSjJzcXNvWnF6NXZOcjU0Nms5VW4xNXJubU5zMlVsd0RWVE12TklQSjZrM1lHa0cwWXlVeVA4VjNoWGpUMTA0N1ZKSXc?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W1</a></span></li>
-  <li><strong>ECOticias.com &#x27;El Periódico Verde&#x27;:</strong> Heat flowed from cold to hot in a quantum experiment, and the reason was not free energy but information - ECOticias.com &#x27;El Periódico Verde&#x27;<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekJmcEY0ZHhyZ1N3MWZDNlVYcWNXSFhJbm1IQWZ4a0Q3QThqMUhQN2NVblg4MUw1SXNzbU81V25BT1BNSFlzUEZQNW9GdldVSTlwdDh1Rk1KaFdYZFB2TWJNME5uNXpNRW1qS2VMTFdHMXdOWW5Iekx2Rlh2bG9UMEVHejcwcW5UWDdSWGVqZWRsb3Z2Ym5VaS1WQXZMZzA5MVVIVC1IREdDTnhtMmR4SjhNSFZSc3dna0NJMl9odFg3cUt3LXQ5bFZaeGRsNC1lOGEzUmh3?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W2</a></span></li>
-  <li><strong>Science Daily:</strong> Physicists discover a hidden “curveball” in quantum light - Science Daily<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUGpWMXlkaDBaVGI0YXRxMktsYkYxV2dRTFd6aWN4d0s2TVptRjAtTXJ2YWFxbkRFQjk0Um56NlFWam1TM3c5NGpBY3JHUndYeXhrWUJuZ216WlVXT3JVOFJRWUFPWHZ2d2dKSVJ3?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W3</a></span></li>
-  <li><strong>Quantum Zeitgeist:</strong> Researchers Unlock Quantum Infrared Sensing With A New Screen - Quantum Zeitgeist<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVl4QjcyN2s5WHdER2lxQVBHMFRPMUpRMXBNT1B3Sm4tVkhJaFN1eGx6dEMwcHhXTnRCeS1STlczanBEOTF2S1d3dEZUMFM1SDlxQXBvLXlOVjMwcDlYQndNWWd3eUI2VVVGenZOd2d0WXdhd0YzZUJQR2NQaUJqeg?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W4</a></span></li>
+  <li><strong>NASA Science:</strong> APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea<span class="source-chips"><a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" target="_blank" rel="noopener noreferrer">W1</a></span></li>
+  <li><strong>NASA Science:</strong> Kmt-2025-blg-0026l B<span class="source-chips"><a href="https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/" target="_blank" rel="noopener noreferrer">W2</a></span></li>
+  <li><strong>NASA Science:</strong> Kmt-2025-blg-0030l B<span class="source-chips"><a href="https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/" target="_blank" rel="noopener noreferrer">W3</a></span></li>
+  <li><strong>NASA Science:</strong> Kmt-2025-blg-2272l B<span class="source-chips"><a href="https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-2272l-b/" target="_blank" rel="noopener noreferrer">W4</a></span></li>
+  <li><strong>NASA Science:</strong> Ogle-2016-blg-0261l B<span class="source-chips"><a href="https://science.nasa.gov/exoplanet-catalog/ogle-2016-blg-0261l-b/" target="_blank" rel="noopener noreferrer">W5</a></span></li>
 </ul>
 
 <section class="source-note">
@@ -31,18 +31,13 @@ run_time_ist: "6:55PM"
 <summary>Headlines considered</summary>
 
 <ul class="source-list">
-  <li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQb0dUaHNPQ1R0U0RnTVZrVGVST0Jnd0plcTF3QnBTZmEtNm0tTXEtVjdaQV9MRUZMUlljVng5TVN3Z3BzTE1oSWFDWWUyUE9fM2FOdVhSbTlwU3JsYXdTOWx2VlVTcTZqNG5KOHZkeVNERjVqdWZMMzdFb0ZsekhwVjgxTjdmbzdTS1NYdkZkS1MxZw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I1] G20 satellite is expected to be launched in 2027: ISRO Chairman - News On AIR</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWxGY2g3RjUyNmhaREtZdmNVenJiU0x6M0Zzak5teUxsVGprcUh2X21oQWF6emNrYTB2RTBhbHN1Ui1RYkRMbmlyS0pObU9lZEdkUmRLWV8tR2NNRjluVWo1LTJ4cE5ILXBmWTBGVE84SG5pV1NCajFEb2RKS3N6dExtaUJvZWxqLUVHZnJNSFdRR2JFclVTZDJsUkxZWEw3bF9QQVlaWHNNdHZxalHSAbMBQVVfeXFMTlpfbFNwSzNXd21xNXRORTBUeVdIUzQ1Qmhia3BhaGNxU0JtOVhlVzZQVDJiZHYzdlBvb085RnpfT0FLTGlRVno0WGFWSXM5bUhCeWVVbzNtdDdFa2M2ZEF0QTh0eTVfeVdfZFJidF9EMkFOaFgwRmJ0NHRCZzducjJxSElOV19IeFg0REZEMUdjUGs1b3RTZHZEei1FaUJDYVVmREZRek9OMm91MHZEMEpkeU0?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I2] PBBM seeks India expertise for PH railway, space technology projects - Cebu Daily News</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnFGWGZRbXZacl9pVDhhd2xTdU9PWnhWdFFEMGZ5UjZ1NEFVR2pneE9WaHhKd1dIcXRFamZoMFJxdk5VcktGbTRuNnBidXpmc0stRWRDb3hlVmtzcTFHZklnbHZvRXdWWVZzaTBTQlBaaVJsNmV6Sm1XUUxnMEtwQjhGcTBSWGt4ZXJpalM4TDItblR5U0cyTlotUWd5Q2d2X25FajR30gGmAUFVX3lxTFBKcUZYZlFtdlpyX2lUOGF3bFN1T09aeFZ0UUQwZnlSNnU0QVVHamd4T1ZoeEp3V0hxdEVqZmgwUnF2TlVyS0ZtNG42cGJ1emZzSy1FZENveGVWa3NxMUdmSWdsdm9Fd1ZZVnNpMFNCUFppUmw2ZXpKbVdRTGcwS3BCOEZxMFJYa3hlcmlqUzhMMi1uVHlTRzJOWi1RZ3lDZ3ZfbkVqNHc?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I3] Marcos seeks India expertise for PH railway, space projects - Inquirer.net</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVFrWEZfemxKYUV6QmpqNWV5UWhFalpobGxRUVZhb1pxNzRXNl9YOS1LUUpabkQ1TTlzUGg5NGtpTmliczRHQjBWVDM0RTN6RGcyZnUzS2I3WldTWWo1SkRXZHM4T0dVTlQzWHhLSzNWSDk0ZVFDU05PblpFVWM4S2JBekJBeS1udm15VTVOelRLLXBTQ3NjYnJtUURkTDhUYnlfdmVmSXJ6MkpWSG10YzBrQXN6bm1Id3pn?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I4] Astrogate Labs Targets 2027 Launch for India’s Indigenous Optical Inter-Satellite Link - Machine Maker</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPTndiY29ocHM4NXByTDJOM0pTRy03Z3V3c0lzcEstVWhIUFgwX3lRblhMc0tqWFI1LTNOeUluRVhZdy14UU9FekNaM1R6UHVwbWVFVG9lenZOOVhoYy11OW9aOUJBY2dXeFNITkpwVjhMa3BtM2NNRm1CRjJZbUp5VmV4RXVwT1UzT3FsWDVlT184SUI4clYxM0lYTzRaYmxFTmhiT3NSQkkzc2FGM1N1LTVFRQ?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I5] India, France Sign Three Agreements To Expand Private Space Cooperation - BW Businessworld</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOd0RvWHdldlRWUG1QWm9LN3JxMjFVeUZMdzgxZEQyakx1NENpaEMzWHE4LWxiNmFHa3dLZWhTTGNpZXUxSnNlS29jN1BZeXZtYzVrZ0NBMWJ2emx6a3pXS2E2aUtva1cwRklaMlh6VjlmeG5oT2FDaS0xVW5WQWY1THI0WmdvRVYxZGRhU0dyZTBMMC1ycllVS1NpU1A2eEhHMWlVd090ZXBOQmhTUUlKSlg1cksyZEpKRklRU1JLSGJjeGJUanNEZlZR0gHQAUFVX3lxTFBhNWJ3Nkt5OUhvVFduMnF5UmdibFRfbW1zbHZRRXhFWkl4Qy1ueGlPWUFqRE1zQ1dOczhHeklObzBKUWh4N1N2VW11YmZmd1FhT3pqNTd2VHE5ZVpQN2J1bFV2bDlMTkRPM0JIcDRMc1VuSkJWd3EtZ2hReGNYUHRuREc3aGZURExLbmZLX25FNTZxZW9tbndIQTZSRHhuQVhhWHlfN1hSMW5aZlBWaTlJSVFJY0dZTFA1XzZvUkU4TlAtMDBrSWVReWkzbE03Q00?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I6] Members acknowledge progress in expanding remote-sensing satellite constellation - The Indian Express</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkdGVTlZc01XaG8yQkJ4V1VtcFhZM253WENuRjlMcWdENlNqMjVOcjFOaEliQm1wSDFaLVRmNFo2ZW13LUlCZVpDZVNXSHhkdFRoMzJjVDNrMGN6WkxiWEFJTWQ1Q2RaaUlNazhKVGdVNzZ0SU84S3Nqdld2bVowMlRoVHI1WG1nNTJvbGIydkxuMmJIRHFKMTF1V1VmZ3pqTmxOZWlnNA?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I7] Marcos eyes India know-how for Mindanao, Cebu railways and PH satellite push - The Chronicle PH</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9xNjF4RkNBdHNpLWdrb0JISFh5VzUzTFRqd0tzaEp6QnZPNUZramhhSjJzcXNvWnF6NXZOcjU0Nms5VW4xNXJubU5zMlVsd0RWVE12TklQSjZrM1lHa0cwWXlVeVA4VjNoWGpUMTA0N1ZKSXc?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W1] IFAE’s Amaral Explores Quantum Dark Matter Detection Method - Quantum Zeitgeist</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxPekJmcEY0ZHhyZ1N3MWZDNlVYcWNXSFhJbm1IQWZ4a0Q3QThqMUhQN2NVblg4MUw1SXNzbU81V25BT1BNSFlzUEZQNW9GdldVSTlwdDh1Rk1KaFdYZFB2TWJNME5uNXpNRW1qS2VMTFdHMXdOWW5Iekx2Rlh2bG9UMEVHejcwcW5UWDdSWGVqZWRsb3Z2Ym5VaS1WQXZMZzA5MVVIVC1IREdDTnhtMmR4SjhNSFZSc3dna0NJMl9odFg3cUt3LXQ5bFZaeGRsNC1lOGEzUmh3?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W2] Heat flowed from cold to hot in a quantum experiment, and the reason was not free energy but information - ECOticias.com &#x27;El Periódico Verde&#x27;</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUGpWMXlkaDBaVGI0YXRxMktsYkYxV2dRTFd6aWN4d0s2TVptRjAtTXJ2YWFxbkRFQjk0Um56NlFWam1TM3c5NGpBY3JHUndYeXhrWUJuZ216WlVXT3JVOFJRWUFPWHZ2d2dKSVJ3?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W3] Physicists discover a hidden “curveball” in quantum light - Science Daily</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxOeVl4QjcyN2s5WHdER2lxQVBHMFRPMUpRMXBNT1B3Sm4tVkhJaFN1eGx6dEMwcHhXTnRCeS1STlczanBEOTF2S1d3dEZUMFM1SDlxQXBvLXlOVjMwcDlYQndNWWd3eUI2VVVGenZOd2d0WXdhd0YzZUJQR2NQaUJqeg?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W4] Researchers Unlock Quantum Infrared Sensing With A New Screen - Quantum Zeitgeist</a></li>
-  <li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkpaMzBUaFZobi1VelR2NTZFYmNHMEdRZF9jZmpJeTBJaVlaRWtCOHhlUzlYVHF5Vmp3akVDVXdFajJBaEMzM0RzdTN3Tmx6bkhzTjZVdFFiSmRFbjNEd1FtcFFrbnRybjU1MC0tUlFzanc0Vm42QnVQNnh0amhoeHdCVGNDeUoyVWxkWERpSlpYM1VvWWtvUg?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W5] Worldwide Search for Dark Matter Turns Earth into a Giant Detector - SSBCrack</a></li>
+  <li><a href="https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/" target="_blank" rel="noopener noreferrer">[W1] APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea</a></li>
+  <li><a href="https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0026l-b/" target="_blank" rel="noopener noreferrer">[W2] Kmt-2025-blg-0026l B</a></li>
+  <li><a href="https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-0030l-b/" target="_blank" rel="noopener noreferrer">[W3] Kmt-2025-blg-0030l B</a></li>
+  <li><a href="https://science.nasa.gov/exoplanet-catalog/kmt-2025-blg-2272l-b/" target="_blank" rel="noopener noreferrer">[W4] Kmt-2025-blg-2272l B</a></li>
+  <li><a href="https://science.nasa.gov/exoplanet-catalog/ogle-2016-blg-0261l-b/" target="_blank" rel="noopener noreferrer">[W5] Ogle-2016-blg-0261l B</a></li>
+  <li><a href="https://science.nasa.gov/exoplanet-catalog/hd-715-b/" target="_blank" rel="noopener noreferrer">[W6] HD 715 b</a></li>
+  <li><a href="https://science.nasa.gov/exoplanet-catalog/hd-278555-b/" target="_blank" rel="noopener noreferrer">[W7] HD 278555 b</a></li>
 </ul>
 
 </details>
