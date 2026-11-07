@@ -1,0 +1,49 @@
+---
+layout: default
+title: "‘Chandrayaan’ trailer promises a hilarious moon mission adventure - The Hans Ind"
+date: 2026-11-07T00:23:19.091167+00:00
+summary: "Space science, quantum research, and materials physics for physics students"
+run_time_ist: "5:53AM"
+---
+
+<article class="digest-post">
+  <a class="back-link" href="{{ '/' | relative_url }}">Physics Brief</a>
+  <p class="post-meta">Headline Digest: 5:53AM</p>
+
+<h2>India Physics</h2>
+<ul class="digest-points">
+  <li><strong>The Hans India:</strong> ‘Chandrayaan’ trailer promises a hilarious moon mission adventure - The Hans India<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaElpWFN2MG1vS1A0dXhiWENTUUZSVmdQNlM2NC1GSWxtSl85N2kzbE5GOE9TYzhGZjE5amRVeDdYS1EyUHltc2txSXRqdXFYakp4LW1Ta1lHNGMwZ2xCV1YwQTVVNm55NDh2Nm1iUWVMQlNoRldEN1d2dTV5VnZQQWdTYmpFdW1fMnhzeEctN2M2dm80aS13YmVScS1TZzAxX05JeWpMdy1mR0x4aTJaTTFUWTUtUmwz?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I1</a></span></li>
+  <li><strong>Business Today:</strong> &#x27;Russia stood by India&#x27;: ISRO chief V Narayanan recalls Moscow&#x27;s role in space journey - Business Today<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdmJPNWJ6RGJYOHZFUkVyZVhiOEdxWFR1d2JfbTV1SThQNEpxd1VBcTQ1Ym5SMVIwSmZabldQQUZMamhTQVU2amYtQ2dJams0dG1raFZCUUxSdlU4LWplVzVMS0JjaVlsQjlqN1pLb213a1VkTW15TUtjT3lwMW4xNEdGU0dMMVVkU1hTUUV3c0tjV01BUUl6V1NMVmVXYzdvMERQTnFydEMxNVhFcXRuamhiY0ZVNkpPbkNqaDJFcDlFRno1LTE0bndfaUc2SHpvS3puUS1Xbmx5OGPSAeABQVVfeXFMTWxRczVsTmtQTHpwQVJJMUliQXZ1aVYyRVM2Y0dPRzJjSUNyRXBydktoNjBhVVpZMzU4ZVBrcFZ1V0dFYWRyYlZBODRFaFpkTXppYXV4azByU0pqSVZQUGxubVpYZF96VzdrRjhCRl9nZGxaQ09acDdTY21ZVXVTcmlWWXItUjFLNjZvWWY2SHJ3ckM5ZHBEeVh3aFBsaE5iM0ZRem5pQnMwQ1dpOUszRTUtclBYcWwxRGpkNjhRa3lPRkkxSzNvWlB5d2RvTWdqLWJieUxMcm1SUDRCV3ctNjU?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">I2</a></span></li>
+</ul>
+<h2>World Physics</h2>
+<ul class="digest-points">
+  <li><strong>Nature:</strong> A novel cost-effective layout-aware quantum circuit synthesis of symmetric functions on triangular, square, and heavy-hex layouts - Nature<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nRUlTZjBIeGNFTWQzelFaUC1FMnFFeTJLX2ZuamhvckxfNFg4TU5zM1lnLTJqOWFTNEJnRlZxNlVqZmNjTG9VVnFfbjhBcTRmcXZUQmxGeXdyLW9vRWlCNEhXT1c?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W1</a></span></li>
+  <li><strong>Science | AAAS:</strong> Photonic entanglement swapping with remote quantum dots - Science | AAAS<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RYm1sTG8wdmZZLUtvT3dvRVdyQ0lpdzFwR0hUcnc3V1YzajM1b0UtWVdJRDFRa1BMVVNTMHpXS1dJR2I5b1lCZ2xDak4zbC1tRDdJRElJOHdZei1NVlk4?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W2</a></span></li>
+  <li><strong>Science | AAAS:</strong> Quantum-interference metrology of dissipative Kerr solitons - Science | AAAS<span class="source-chips"><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UeWVQanJfZTk4enhBRUxoTGxxMFU0SUVscUNjRnVocEprWFQzdnctdVl5NU9WeVlNOFI5b3dIeFVja3NSOGJlRGZDWWFlZjNHbk5KU3ZpdmpXcjlOQV80?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">W3</a></span></li>
+</ul>
+
+<section class="source-note">
+  <h2>Source</h2>
+  <p>Generated from configured physics RSS feeds. Source links below are direct article links where the feed allowed resolution.</p>
+</section>
+
+<details class="tp-sources">
+<summary>Headlines considered</summary>
+
+<ul class="source-list">
+  <li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaElpWFN2MG1vS1A0dXhiWENTUUZSVmdQNlM2NC1GSWxtSl85N2kzbE5GOE9TYzhGZjE5amRVeDdYS1EyUHltc2txSXRqdXFYakp4LW1Ta1lHNGMwZ2xCV1YwQTVVNm55NDh2Nm1iUWVMQlNoRldEN1d2dTV5VnZQQWdTYmpFdW1fMnhzeEctN2M2dm80aS13YmVScS1TZzAxX05JeWpMdy1mR0x4aTJaTTFUWTUtUmwz?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I1] ‘Chandrayaan’ trailer promises a hilarious moon mission adventure - The Hans India</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdmJPNWJ6RGJYOHZFUkVyZVhiOEdxWFR1d2JfbTV1SThQNEpxd1VBcTQ1Ym5SMVIwSmZabldQQUZMamhTQVU2amYtQ2dJams0dG1raFZCUUxSdlU4LWplVzVMS0JjaVlsQjlqN1pLb213a1VkTW15TUtjT3lwMW4xNEdGU0dMMVVkU1hTUUV3c0tjV01BUUl6V1NMVmVXYzdvMERQTnFydEMxNVhFcXRuamhiY0ZVNkpPbkNqaDJFcDlFRno1LTE0bndfaUc2SHpvS3puUS1Xbmx5OGPSAeABQVVfeXFMTWxRczVsTmtQTHpwQVJJMUliQXZ1aVYyRVM2Y0dPRzJjSUNyRXBydktoNjBhVVpZMzU4ZVBrcFZ1V0dFYWRyYlZBODRFaFpkTXppYXV4azByU0pqSVZQUGxubVpYZF96VzdrRjhCRl9nZGxaQ09acDdTY21ZVXVTcmlWWXItUjFLNjZvWWY2SHJ3ckM5ZHBEeVh3aFBsaE5iM0ZRem5pQnMwQ1dpOUszRTUtclBYcWwxRGpkNjhRa3lPRkkxSzNvWlB5d2RvTWdqLWJieUxMcm1SUDRCV3ctNjU?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I2] &#x27;Russia stood by India&#x27;: ISRO chief V Narayanan recalls Moscow&#x27;s role in space journey - Business Today</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQWG5MdmlOMmwxaThENXpzU2ZEMjlPb1FGc2dhTDNQNWhWQUtocjRwSGJSM2lXVExDY2R3WVFkTnIzWmFXV1hKbmlGU0U5TEJJQUp0d3dOQTRNa2t6TnFRU1N0aW1LYTExUnJTUklqRlNBSTJUbDdRc1ZKZDZJY1hNc0lTanlXU1lzM2h5Q3FwU2xLQ0VS?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I3] India Launches ‘Swachh Space’ Initiative to Tackle Orbital Debris by 2030 - The CSR Journal</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVlg5dkJvS0FyWllWVG1KQV94LXZGQzNwQXNqeTUtN0pVaEpua3Y4Zm56cHJBUTNxM2xzOGdicFdDS0lDMnN1RmRUUjVHb2UwY3cxaTRIVnFOT0hLdmlkYzJtT3RTSkNGY0treUVNTVU5NFQ5UHpicUI1ZXdWV1Vrc1hRaTZDUnFJVUkxOVNNVU0zZThpX0RtX3B0bXdhMXpOdlk1ODhwZEtzbTZIZUhNSFhLT192a1lUMFlRVDBtdzFUMU9kOWVrSk5ENzJKN3ExUmQxaFVfTkItVlVlem8xRVVVQ1hWQ05lZHc?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I4] India targets first uncrewed Gaganyaan Mission with Vyommitra in late 2026; Human Spaceflight Programme achieves major milestones - DD News</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOenlZRVprTnBSTmRTLTlGU2ZSZXRGcmV6bWVXcHY0Sm1PMkYyQTNsck9QR0xUNzl1dnpFZ294OS16VXdCZkg3WjlVemdkdGNhZy0xWnN0X01pUldobE5mak15XzU5d2QwVnFyUlI0dl85aFZrbnZDVEhsTFZKOWJxR0pZT1ltNUd4WWNHM1ZfOV9oZGtBRHlSaUQ4STRRR2hCV0d1bnlxQTQ0MHFjUExUREVZdzU5OXhfOWdSa1RB?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[I5] India’s space sector enters new era with private players, bigger missions and global partnerships - DD News</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nRUlTZjBIeGNFTWQzelFaUC1FMnFFeTJLX2ZuamhvckxfNFg4TU5zM1lnLTJqOWFTNEJnRlZxNlVqZmNjTG9VVnFfbjhBcTRmcXZUQmxGeXdyLW9vRWlCNEhXT1c?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W1] A novel cost-effective layout-aware quantum circuit synthesis of symmetric functions on triangular, square, and heavy-hex layouts - Nature</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RYm1sTG8wdmZZLUtvT3dvRVdyQ0lpdzFwR0hUcnc3V1YzajM1b0UtWVdJRDFRa1BMVVNTMHpXS1dJR2I5b1lCZ2xDak4zbC1tRDdJRElJOHdZei1NVlk4?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W2] Photonic entanglement swapping with remote quantum dots - Science | AAAS</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UeWVQanJfZTk4enhBRUxoTGxxMFU0SUVscUNjRnVocEprWFQzdnctdVl5NU9WeVlNOFI5b3dIeFVja3NSOGJlRGZDWWFlZjNHbk5KU3ZpdmpXcjlOQV80?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W3] Quantum-interference metrology of dissipative Kerr solitons - Science | AAAS</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NVkd1NjVELXRQRE1veWpVMExOWVVKa1JHRHp0T21DcWVmcDZpN0UteWZNVmdjQ1JGNmJMTlJJdU1TOGZqZnB3Z09HNlJuM3hlVHlNSEVjWXU2dHFYcE5n?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W4] Measuring mixed-state topological invariant in open photonic quantum walk - Science | AAAS</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBM0VLb3dsT1lRUXhrVE82VGJWWFg4OXU3dkJPTjVyWGN5QWh4WlBfX2toYzlEbENTUkZJM1FXR2V0cHFqWHEzV0t1aEVubDlydm1UX0djTGY4dXhE?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W5] New research offers hope for room-temperature superconductivity - EurekAlert!</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHlLTGFic3dORVlRNUItcmJSNFBpZEQ5a21xckhQQ0RaSks4ZlRfMDM3QWNhZ29sbE1rZW9aNXpfdllJQUlfU1d1QU1sMHBNMHZOdnloNzVjdWh5cU5NSlZ2ZlVQQnZEYjlFMFhvOU5QWU0wc2tlb2RWMXI4Q29Iakxib2hwdw?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W6] A Photonic Quantum Walk Reveals A Quantized Geometric Phase - Quantum Zeitgeist</a></li>
+  <li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ySGlBLWt2RmdOZ0M3MXBmTDExNTdlaUJGYlFEUGlWTVlMN0VJVEw0NmRqcTF0dEVNajdYZ0dwRTlUcHJYajQ2SmtuVGlhY0c2RVZhVWVDQmRiLU9f?oc=5&amp;hl=en-US&amp;gl=US&amp;ceid=US%3Aen" target="_blank" rel="noopener noreferrer">[W7] With “Quantum Biology 2.0”, a landmark review updates the field - EurekAlert!</a></li>
+</ul>
+
+</details>
+</article>
